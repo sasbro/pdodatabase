@@ -10,12 +10,12 @@ PHP - Class PDO Database
 ```
 
 #### Content
-* [PDO -> Insert](https://github.com/sasbro/pdo_database#insert "jump!")
-* [PDO -> Select (Single)](https://github.com/sasbro/pdo_database#select-single "jump!")
-* [PDO -> Select (Multiple)](https://github.com/sasbro/pdo_database#select-multiple "jump!")
-* [PDO -> Update](https://github.com/sasbro/pdo_database#update "jump!")
-* [PDO -> Transaction](https://github.com/sasbro/pdo_database#transaction "jump!")
-* [PDO -> Bind Array](https://github.com/sasbro/pdo_database#bind-array "jump!")
+* [PDO -> Insert](https://github.com/sasbro/pdodatabase#insert "jump!")
+* [PDO -> Select (Single)](https://github.com/sasbro/pdodatabase#select-single "jump!")
+* [PDO -> Select (Multiple)](https://github.com/sasbro/pdodatabase#select-multiple "jump!")
+* [PDO -> Update](https://github.com/sasbro/pdodatabase#update "jump!")
+* [PDO -> Transaction](https://github.com/sasbro/pdodatabase#transaction "jump!")
+* [PDO -> Bind Array](https://github.com/sasbro/pdodatabase#bind-array "jump!")
 
 Usage
 -----
